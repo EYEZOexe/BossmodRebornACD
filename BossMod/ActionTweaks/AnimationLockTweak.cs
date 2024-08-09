@@ -1,4 +1,4 @@
-﻿namespace BossMod;
+﻿﻿namespace BossMod;
 
 // Effective animation lock reduction tweak (a-la xivalex/noclippy).
 // The game handles instants and casted actions differently:
